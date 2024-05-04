@@ -1,0 +1,10 @@
+{
+    "name": "Tutorial Sketch #04",
+    "creator": "Blank",
+    "description": "This is a sketch.",
+    "type": "model/gltf-binary",
+    "properties": {
+        "license": "MIT-0",
+        "collection": "Sketches"
+    }
+}
